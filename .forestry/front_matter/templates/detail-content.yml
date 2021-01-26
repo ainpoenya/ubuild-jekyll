@@ -18,4 +18,4 @@ fields:
     schema:
       format: html-blocks
 pages:
-- _posts/post1.md
+- _posts/2021-01-26-post1.md
