@@ -80,5 +80,11 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
+- template: 4-column-footer
+  block: footer-2
+  image: ''
+  col_2: kolom2
+  col_3: kolom3
+  col_4: kolom4
 
 ---
