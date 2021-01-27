@@ -32,5 +32,5 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
-- _posts/judul.html
+- _posts/2021-01-26-judul.html
 - index.md
